@@ -1,5 +1,5 @@
-# AES256 [NodeJS]
-Nodejs AES256 Encrypt/decrypt
+# AES256
+[nodejs] AES256 Encrypt/decrypt
 
 ### Install
 ```

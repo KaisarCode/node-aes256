@@ -1,7 +1,7 @@
 {
   "name": "kc-aes256",
   "version": "1.0.5",
-  "description": "AES256 Encrypt/decrypt [NodeJS]",
+  "description": "[nodejs] AES256 Encrypt/decrypt",
   "main": "index.js",
   "repository": {
     "type": "git",
